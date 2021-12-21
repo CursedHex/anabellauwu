@@ -3,7 +3,7 @@ function getRandomInt(max) {
 }
 const Discord = require('discord.js-selfbot');
 const client = new Discord.Client();
-let token = "OTIyOTIyMzA3ODI2MTE4Njg2.YcIlbg.lKK6XwwObmzCNwbeL-OKSBrBCnM";
+let token = "OTIyOTIyMzA3ODI2MTE4Njg2.YcImIg.CmkyH8yn7h6ivBvMVAN_bYG_9kQ";
 let prefix = ";";
 
 client.on('ready', () => {
